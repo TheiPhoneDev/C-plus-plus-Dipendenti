@@ -4,7 +4,6 @@
 using namespace std;
 
 const int dimensioneMax=100;
-const int perc=2;
 
 struct dipendente {
     string nome;
